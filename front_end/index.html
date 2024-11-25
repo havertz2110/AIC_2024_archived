@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>AIC Website</title>
+        <link rel="stylesheet" href="css/styles.css" />
+        <link
+            rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+        />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+            rel="stylesheet"
+        />
+    </head>
+    <body>
+        <div class="navbarContainer">
+            <div class="logoContainer">
+                <p style="font-weight: bold; font-size: 25px; margin: 0px">
+                    AIO.Signore
+                </p>
+            </div>
+            <div class="otherActions">
+                <button class="copyAll" type="button">Copy All Results</button>
+                <button class="searchTool">Search Tool</button>
+            </div>
+        </div>
+        <div className="webBody">
+            <div class="responseContainer">
+                <div class="welcome">
+                    <img
+                        src="/public/light-illustration.png"
+                        alt="noResponse"
+                        style="height: 360px; width: 515px; margin-top: 80px"
+                    />
+                    <p
+                        style="
+                            font-weight: bold;
+                            font-size: 1.5rem;
+                            text-align: center;
+                            margin-bottom: 0px;
+                        "
+                    >
+                        There is no response now. <br />
+                        Please enter a query on search bar <br />
+                        or open search tool and start searching!
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="searchToolContainer">
+            <div class="ocrSearchContainer">
+                <div class="searchBar">
+                    <input
+                        type="text"
+                        placeholder="Main Search"
+                        class="searchInput"
+                        id="mainInput"
+                    />
+                </div>
+            </div>
+            <div class="odContainer">
+                <div class="od-board">
+                    <div>
+                        <p
+                            style="
+                                text-align: center;
+                                font-weight: bold;
+                                padding: 10px;
+                                border-radius: 10px;
+                                background-color: aliceblue;
+                                font-family: 'Inter', sans-serif;
+                            "
+                        >
+                            OD SEARCH TOOL
+                        </p>
+                    </div>
+                    <div class="line" id="0">
+                        <div class="cell" id="a0"></div>
+                        <div class="cell" id="a1"></div>
+                        <div class="cell" id="a2"></div>
+                        <div class="cell" id="a3"></div>
+                        <div class="cell" id="a4"></div>
+                        <div class="cell" id="a5"></div>
+                        <div class="cell" id="a6"></div>
+                    </div>
+                    <div class="line" id="1">
+                        <div class="cell" id="b0"></div>
+                        <div class="cell" id="b1"></div>
+                        <div class="cell" id="b2"></div>
+                        <div class="cell" id="b3"></div>
+                        <div class="cell" id="b4"></div>
+                        <div class="cell" id="b5"></div>
+                        <div class="cell" id="b6"></div>
+                    </div>
+                    <div class="line" id="2">
+                        <div class="cell" id="c0"></div>
+                        <div class="cell" id="c1"></div>
+                        <div class="cell" id="c2"></div>
+                        <div class="cell" id="c3"></div>
+                        <div class="cell" id="c4"></div>
+                        <div class="cell" id="c5"></div>
+                        <div class="cell" id="c6"></div>
+                    </div>
+                    <div class="line" id="3">
+                        <div class="cell" id="d0"></div>
+                        <div class="cell" id="d1"></div>
+                        <div class="cell" id="d2"></div>
+                        <div class="cell" id="d3"></div>
+                        <div class="cell" id="d4"></div>
+                        <div class="cell" id="d5"></div>
+                        <div class="cell" id="d6"></div>
+                    </div>
+                    <div class="line" id="4">
+                        <div class="cell" id="e0"></div>
+                        <div class="cell" id="e1"></div>
+                        <div class="cell" id="e2"></div>
+                        <div class="cell" id="e3"></div>
+                        <div class="cell" id="e4"></div>
+                        <div class="cell" id="e5"></div>
+                        <div class="cell" id="e6"></div>
+                    </div>
+                    <div class="line" id="5">
+                        <div class="cell" id="f0"></div>
+                        <div class="cell" id="f1"></div>
+                        <div class="cell" id="f2"></div>
+                        <div class="cell" id="f3"></div>
+                        <div class="cell" id="f4"></div>
+                        <div class="cell" id="f5"></div>
+                        <div class="cell" id="f6"></div>
+                    </div>
+                    <div class="line" id="6">
+                        <div class="cell" id="g0"></div>
+                        <div class="cell" id="g1"></div>
+                        <div class="cell" id="g2"></div>
+                        <div class="cell" id="g3"></div>
+                        <div class="cell" id="g4"></div>
+                        <div class="cell" id="g5"></div>
+                        <div class="cell" id="g6"></div>
+                    </div>
+                    <div class="guide">
+                        <p
+                            style="
+                                width: 521px;
+                                text-align: justify;
+                                font-weight: bold;
+                                padding: 10px;
+                                border-radius: 10px;
+                                background-color: aliceblue;
+                                font-family: 'Inter', sans-serif;
+                            "
+                        >
+                            GUIDE:
+                            <br />
+                            1. Click on the board.
+                            <br />
+                            2. Choose items you want to search on the right
+                            side.
+                            <br />
+                            3. Click on "Submit Search" to start searching.
+                        </p>
+                    </div>
+                </div>
+                <div class="optionList">
+                    <div>
+                        <p
+                            style="
+                                text-align: center;
+                                font-weight: bold;
+                                padding: 10px;
+                                border-radius: 10px;
+                                background-color: aliceblue;
+                                font-family: 'Inter', sans-serif;
+                            "
+                        >
+                            ICONS
+                        </p>
+                    </div>
+                    <div class="iconList"></div>
+                    <div>
+                        <p
+                            style="
+                                text-align: center;
+                                font-weight: bold;
+                                padding: 10px;
+                                border-radius: 10px;
+                                background-color: aliceblue;
+                                font-family: 'Inter', sans-serif;
+                            "
+                        >
+                            COLORS
+                        </p>
+                    </div>
+                    <div class="colorList"></div>
+                    <button class="submitReq">Submit Search</button>
+                    <div class="quitSearchContainer">
+                        <button class="resetReq">Reset Board</button>
+                        <button class="quitSearch">Return Home</button>
+                    </div>
+                </div>
+            </div>
+            <div class="ocrSearchContainer">
+                <div class="textBar">
+                    <input
+                        type="text"
+                        placeholder="Count Search"
+                        class="searchInput"
+                        id="countInput"
+                    />
+                </div>
+                <div class="textBar">
+                    <input
+                        type="text"
+                        placeholder="OCR Search"
+                        class="searchInput"
+                        id="ocrInput"
+                    />
+                </div>
+            </div>
+        </div>
+        <div class="videoController">
+            <div class="totalContainer">
+                <div
+                    style="
+                        font-weight: bold;
+                        font-size: 20px;
+                        width: 1090px;
+                        border-radius: 20px;
+                        text-align: center;
+                        background-color: aliceblue;
+                        padding: 10px 30px 10px 30px;
+                        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+                    "
+                >
+                    AIO.Signore's Video Player & Frame Searcher
+                </div>
+                <div class="vidnSearch">
+                    <div class="videoContainer">
+                        <video
+                            src="videos/L10_V001.mp4"
+                            currentTime="3.5"
+                            onplay="false"
+                            class="video"
+                        ></video>
+                    </div>
+                    <div class="videoFunction">
+                        <div
+                            style="
+                                text-align: center;
+                                font-weight: bold;
+                                text-decoration: underline;
+                            "
+                        >
+                            Video Controller
+                        </div>
+                        <div class="controller">
+                            <div class="playVideo">
+                                <div>Play</div>
+                                <span class="material-symbols-outlined">
+                                    play_arrow
+                                </span>
+                            </div>
+                            <div class="stopVideo">
+                                <div>Stop</div>
+                                <span class="material-symbols-outlined">
+                                    stop
+                                </span>
+                            </div>
+                            <div class="exitVideo">
+                                <div>Exit</div>
+                                <span class="material-symbols-outlined">
+                                    close
+                                </span>
+                            </div>
+                        </div>
+                        <div
+                            style="
+                                text-align: center;
+                                font-weight: bold;
+                                text-decoration: underline;
+                            "
+                        >
+                            Frame Searcher
+                        </div>
+                        <div class="functionContainer">
+                            <label>Video</label>
+                            <input
+                                type="text"
+                                placeholder="Enter video name"
+                                class="nameInput"
+                            />
+                        </div>
+                        <div class="functionContainer">
+                            <label>Frame</label>
+                            <input
+                                type="text"
+                                placeholder="Enter frame number"
+                                class="frameInput"
+                            />
+                        </div>
+                        <div class="functionContainer">
+                            <label>FPS</label>
+                            <input
+                                type="text"
+                                placeholder="Enter FPS"
+                                class="fpsInput"
+                            />
+                        </div>
+                        <div class="controller">
+                            <button type="submit" class="videoSearch">
+                                Search
+                            </button>
+                        </div>
+                        <div class="controller">
+                            <button class="goBack">Back to Responses</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="videoDetails" style="display: flex">
+                    <div class="queryText"></div>
+                </div>
+            </div>
+        </div>
+        <div class="blur"></div>
+        <script src="js/copyResults.js"></script>
+        <script src="js/searchToolVisibility.js"></script>
+        <script src="js/videoController.js"></script>
+        <script src="js/searchTool.js"></script>
+    </body>
+</html>

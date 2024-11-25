@@ -1,0 +1,16 @@
+{
+    "query1": {
+        "main_text": "1",
+        "od_text": "g6banana ",
+        "color_text": "g6banana ",
+        "count_text": "2",
+        "ocr_text": "3"
+    },
+    "query2": {
+        "main_text": "4",
+        "od_text": "e5banana e5apple ",
+        "color_text": "e5apple e5banana ",
+        "count_text": "5",
+        "ocr_text": "6"
+    }
+}

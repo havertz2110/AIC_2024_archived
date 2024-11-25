@@ -1,0 +1,1514 @@
+[
+    {
+        "video_path": "L23_V001",
+        "frame": [
+            {
+                "frame": "/AIC_Keyframes/L23_Keyframes/L23_V001/L23_V001_keyframes/frame_17153.jpg",
+                "num": 17153,
+                "scence_num": 1
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V027/L07_V027_keyframes/frame_17161.jpg",
+                "num": 17161,
+                "scence_num": 179
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V027/L07_V027_keyframes/frame_17179.jpg",
+                "num": 17179,
+                "scence_num": 179
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V027/L07_V027_keyframes/frame_17188.jpg",
+                "num": 17188,
+                "scence_num": 179
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V027/L07_V027_keyframes/frame_20108.jpg",
+                "num": 20108,
+                "scence_num": 208
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V027/L07_V027_keyframes/frame_20131.jpg",
+                "num": 20131,
+                "scence_num": 208
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V027/L07_V027_keyframes/frame_20177.jpg",
+                "num": 20177,
+                "scence_num": 208
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V027/L07_V027_keyframes/frame_20201.jpg",
+                "num": 20201,
+                "scence_num": 208
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V027/L07_V027_keyframes/frame_20863.jpg",
+                "num": 20863,
+                "scence_num": 219
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V027/L07_V027_keyframes/frame_20874.jpg",
+                "num": 20874,
+                "scence_num": 219
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V027/L07_V027_keyframes/frame_20896.jpg",
+                "num": 20896,
+                "scence_num": 219
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V027/L07_V027_keyframes/frame_20907.jpg",
+                "num": 20907,
+                "scence_num": 219
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V027/L07_V027_keyframes/frame_17153.jpg",
+                "num": 17153,
+                "scence_num": 179
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V027/L07_V027_keyframes/frame_20131.jpg",
+                "num": 20131,
+                "scence_num": 208
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V027/L07_V027_keyframes/frame_20309.jpg",
+                "num": 20309,
+                "scence_num": 210
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V027/L07_V027_keyframes/frame_20323.jpg",
+                "num": 20323,
+                "scence_num": 210
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V027/L07_V027_keyframes/frame_20352.jpg",
+                "num": 20352,
+                "scence_num": 210
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V027/L07_V027_keyframes/frame_20367.jpg",
+                "num": 20367,
+                "scence_num": 210
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V027/L07_V027_keyframes/frame_20863.jpg",
+                "num": 20863,
+                "scence_num": 219
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V027/L07_V027_keyframes/frame_20896.jpg",
+                "num": 20896,
+                "scence_num": 219
+            }
+        ],
+        "weights": 0.7189068794250488,
+        "start_time": 17153,
+        "end_time": 20907
+    },
+    {
+        "video_path": "L09_V015",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V015/L09_V015_keyframes/frame_12932.jpg",
+                "num": 12932,
+                "scence_num": 135
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V015/L09_V015_keyframes/frame_12945.jpg",
+                "num": 12945,
+                "scence_num": 135
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V015/L09_V015_keyframes/frame_12971.jpg",
+                "num": 12971,
+                "scence_num": 135
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V015/L09_V015_keyframes/frame_12985.jpg",
+                "num": 12985,
+                "scence_num": 135
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V015/L09_V015_keyframes/frame_13028.jpg",
+                "num": 13028,
+                "scence_num": 137
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V015/L09_V015_keyframes/frame_13037.jpg",
+                "num": 13037,
+                "scence_num": 137
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V015/L09_V015_keyframes/frame_13056.jpg",
+                "num": 13056,
+                "scence_num": 137
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V015/L09_V015_keyframes/frame_13066.jpg",
+                "num": 13066,
+                "scence_num": 137
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V015/L09_V015_keyframes/frame_14189.jpg",
+                "num": 14189,
+                "scence_num": 144
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V015/L09_V015_keyframes/frame_12932.jpg",
+                "num": 12932,
+                "scence_num": 135
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V015/L09_V015_keyframes/frame_12945.jpg",
+                "num": 12945,
+                "scence_num": 135
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V015/L09_V015_keyframes/frame_12971.jpg",
+                "num": 12971,
+                "scence_num": 135
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V015/L09_V015_keyframes/frame_12985.jpg",
+                "num": 12985,
+                "scence_num": 135
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V015/L09_V015_keyframes/frame_13028.jpg",
+                "num": 13028,
+                "scence_num": 137
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V015/L09_V015_keyframes/frame_13037.jpg",
+                "num": 13037,
+                "scence_num": 137
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V015/L09_V015_keyframes/frame_13056.jpg",
+                "num": 13056,
+                "scence_num": 137
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V015/L09_V015_keyframes/frame_13066.jpg",
+                "num": 13066,
+                "scence_num": 137
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V015/L09_V015_keyframes/frame_13985.jpg",
+                "num": 13985,
+                "scence_num": 144
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V015/L09_V015_keyframes/frame_14189.jpg",
+                "num": 14189,
+                "scence_num": 144
+            }
+        ],
+        "weights": 0.7113047242164612,
+        "start_time": 12932,
+        "end_time": 14189
+    },
+    {
+        "video_path": "L10_V023",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V023/L10_V023_keyframes/frame_16411.jpg",
+                "num": 16411,
+                "scence_num": 210
+            },
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V023/L10_V023_keyframes/frame_16477.jpg",
+                "num": 16477,
+                "scence_num": 210
+            },
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V023/L10_V023_keyframes/frame_16510.jpg",
+                "num": 16510,
+                "scence_num": 210
+            },
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V023/L10_V023_keyframes/frame_16680.jpg",
+                "num": 16680,
+                "scence_num": 213
+            },
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V023/L10_V023_keyframes/frame_16705.jpg",
+                "num": 16705,
+                "scence_num": 213
+            },
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V023/L10_V023_keyframes/frame_16755.jpg",
+                "num": 16755,
+                "scence_num": 213
+            },
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V023/L10_V023_keyframes/frame_16780.jpg",
+                "num": 16780,
+                "scence_num": 213
+            },
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V023/L10_V023_keyframes/frame_16905.jpg",
+                "num": 16905,
+                "scence_num": 215
+            },
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V023/L10_V023_keyframes/frame_16943.jpg",
+                "num": 16943,
+                "scence_num": 215
+            },
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V023/L10_V023_keyframes/frame_16962.jpg",
+                "num": 16962,
+                "scence_num": 215
+            },
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V023/L10_V023_keyframes/frame_16680.jpg",
+                "num": 16680,
+                "scence_num": 213
+            },
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V023/L10_V023_keyframes/frame_16705.jpg",
+                "num": 16705,
+                "scence_num": 213
+            },
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V023/L10_V023_keyframes/frame_16755.jpg",
+                "num": 16755,
+                "scence_num": 213
+            },
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V023/L10_V023_keyframes/frame_16780.jpg",
+                "num": 16780,
+                "scence_num": 213
+            }
+        ],
+        "weights": 0.7111104130744934,
+        "start_time": 16378,
+        "end_time": 16780
+    },
+    {
+        "video_path": "L05_V018",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L05_Keyframes/L05_V018/L05_V018_keyframes/frame_3470.jpg",
+                "num": 3470,
+                "scence_num": 51
+            },
+            {
+                "frame": "./AIC_Keyframes/L05_Keyframes/L05_V018/L05_V018_keyframes/frame_3488.jpg",
+                "num": 3488,
+                "scence_num": 51
+            },
+            {
+                "frame": "./AIC_Keyframes/L05_Keyframes/L05_V018/L05_V018_keyframes/frame_3524.jpg",
+                "num": 3524,
+                "scence_num": 51
+            },
+            {
+                "frame": "./AIC_Keyframes/L05_Keyframes/L05_V018/L05_V018_keyframes/frame_3488.jpg",
+                "num": 3488,
+                "scence_num": 51
+            },
+            {
+                "frame": "./AIC_Keyframes/L05_Keyframes/L05_V018/L05_V018_keyframes/frame_3524.jpg",
+                "num": 3524,
+                "scence_num": 51
+            },
+            {
+                "frame": "./AIC_Keyframes/L05_Keyframes/L05_V018/L05_V018_keyframes/frame_3543.jpg",
+                "num": 3543,
+                "scence_num": 51
+            }
+        ],
+        "weights": 0.7075704336166382,
+        "start_time": 3470,
+        "end_time": 3543
+    },
+    {
+        "video_path": "L01_V028",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L01_Keyframes/L01_V028/L01_V028_keyframes/frame_1879.jpg",
+                "num": 1879,
+                "scence_num": 25
+            },
+            {
+                "frame": "./AIC_Keyframes/L01_Keyframes/L01_V028/L01_V028_keyframes/frame_1879.jpg",
+                "num": 1879,
+                "scence_num": 25
+            },
+            {
+                "frame": "./AIC_Keyframes/L01_Keyframes/L01_V028/L01_V028_keyframes/frame_1906.jpg",
+                "num": 1906,
+                "scence_num": 25
+            },
+            {
+                "frame": "./AIC_Keyframes/L01_Keyframes/L01_V028/L01_V028_keyframes/frame_1916.jpg",
+                "num": 1916,
+                "scence_num": 25
+            }
+        ],
+        "weights": 0.7063975930213928,
+        "start_time": 1879,
+        "end_time": 1916
+    },
+    {
+        "video_path": "L10_V020",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V020/L10_V020_keyframes/frame_29230.jpg",
+                "num": 29230,
+                "scence_num": 361
+            },
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V020/L10_V020_keyframes/frame_29243.jpg",
+                "num": 29243,
+                "scence_num": 361
+            },
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V020/L10_V020_keyframes/frame_29193.jpg",
+                "num": 29193,
+                "scence_num": 361
+            },
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V020/L10_V020_keyframes/frame_29205.jpg",
+                "num": 29205,
+                "scence_num": 361
+            },
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V020/L10_V020_keyframes/frame_29230.jpg",
+                "num": 29230,
+                "scence_num": 361
+            },
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V020/L10_V020_keyframes/frame_29243.jpg",
+                "num": 29243,
+                "scence_num": 361
+            }
+        ],
+        "weights": 0.7017316818237305,
+        "start_time": 29193,
+        "end_time": 29243
+    },
+    {
+        "video_path": "L09_V013",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V013/L09_V013_keyframes/frame_21124.jpg",
+                "num": 21124,
+                "scence_num": 261
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V013/L09_V013_keyframes/frame_19904.jpg",
+                "num": 19904,
+                "scence_num": 250
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V013/L09_V013_keyframes/frame_21124.jpg",
+                "num": 21124,
+                "scence_num": 261
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V013/L09_V013_keyframes/frame_21217.jpg",
+                "num": 21217,
+                "scence_num": 261
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V013/L09_V013_keyframes/frame_21248.jpg",
+                "num": 21248,
+                "scence_num": 261
+            }
+        ],
+        "weights": 0.7008353471755981,
+        "start_time": 21124,
+        "end_time": 21248
+    },
+    {
+        "video_path": "L03_V026",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L03_Keyframes/L03_V026/L03_V026_keyframes/frame_8262.jpg",
+                "num": 8262,
+                "scence_num": 108
+            },
+            {
+                "frame": "./AIC_Keyframes/L03_Keyframes/L03_V026/L03_V026_keyframes/frame_8272.jpg",
+                "num": 8272,
+                "scence_num": 108
+            },
+            {
+                "frame": "./AIC_Keyframes/L03_Keyframes/L03_V026/L03_V026_keyframes/frame_8276.jpg",
+                "num": 8276,
+                "scence_num": 108
+            },
+            {
+                "frame": "./AIC_Keyframes/L03_Keyframes/L03_V026/L03_V026_keyframes/frame_8262.jpg",
+                "num": 8262,
+                "scence_num": 108
+            },
+            {
+                "frame": "./AIC_Keyframes/L03_Keyframes/L03_V026/L03_V026_keyframes/frame_8272.jpg",
+                "num": 8272,
+                "scence_num": 108
+            }
+        ],
+        "weights": 0.6954885125160217,
+        "start_time": 8262,
+        "end_time": 8276
+    },
+    {
+        "video_path": "L12_V008",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L12_Keyframes/L12_V008/L12_V008_keyframes/frame_18439.jpg",
+                "num": 18439,
+                "scence_num": 199
+            },
+            {
+                "frame": "./AIC_Keyframes/L12_Keyframes/L12_V008/L12_V008_keyframes/frame_17383.jpg",
+                "num": 17383,
+                "scence_num": 191
+            }
+        ],
+        "weights": 0.6925379633903503,
+        "start_time": 18330,
+        "end_time": 17474
+    },
+    {
+        "video_path": "L09_V010",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V010/L09_V010_keyframes/frame_26725.jpg",
+                "num": 26725,
+                "scence_num": 353
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V010/L09_V010_keyframes/frame_25623.jpg",
+                "num": 25623,
+                "scence_num": 343
+            }
+        ],
+        "weights": 0.6922941207885742,
+        "start_time": 26668,
+        "end_time": 25749
+    },
+    {
+        "video_path": "L05_V002",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L05_Keyframes/L05_V002/L05_V002_keyframes/frame_11155.jpg",
+                "num": 11155,
+                "scence_num": 131
+            },
+            {
+                "frame": "./AIC_Keyframes/L05_Keyframes/L05_V002/L05_V002_keyframes/frame_11155.jpg",
+                "num": 11155,
+                "scence_num": 131
+            }
+        ],
+        "weights": 0.6885644197463989,
+        "start_time": 11155,
+        "end_time": 11184
+    },
+    {
+        "video_path": "L05_V001",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L05_Keyframes/L05_V001/L05_V001_keyframes/frame_22071.jpg",
+                "num": 22071,
+                "scence_num": 245
+            },
+            {
+                "frame": "./AIC_Keyframes/L05_Keyframes/L05_V001/L05_V001_keyframes/frame_23305.jpg",
+                "num": 23305,
+                "scence_num": 259
+            },
+            {
+                "frame": "./AIC_Keyframes/L05_Keyframes/L05_V001/L05_V001_keyframes/frame_23325.jpg",
+                "num": 23325,
+                "scence_num": 259
+            },
+            {
+                "frame": "./AIC_Keyframes/L05_Keyframes/L05_V001/L05_V001_keyframes/frame_23366.jpg",
+                "num": 23366,
+                "scence_num": 259
+            }
+        ],
+        "weights": 0.688319206237793,
+        "start_time": 22071,
+        "end_time": 23387
+    },
+    {
+        "video_path": "L11_V030",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L11_Keyframes/L11_V030/L11_V030_keyframes/frame_19495.jpg",
+                "num": 19495,
+                "scence_num": 233
+            },
+            {
+                "frame": "./AIC_Keyframes/L11_Keyframes/L11_V030/L11_V030_keyframes/frame_19525.jpg",
+                "num": 19525,
+                "scence_num": 233
+            },
+            {
+                "frame": "./AIC_Keyframes/L11_Keyframes/L11_V030/L11_V030_keyframes/frame_19535.jpg",
+                "num": 19535,
+                "scence_num": 233
+            }
+        ],
+        "weights": 0.5068383812904358,
+        "start_time": 19495,
+        "end_time": 19535
+    },
+    {
+        "video_path": "L07_V014",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V014/L07_V014_keyframes/frame_18475.jpg",
+                "num": 18475,
+                "scence_num": 202
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V014/L07_V014_keyframes/frame_18483.jpg",
+                "num": 18483,
+                "scence_num": 202
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V014/L07_V014_keyframes/frame_18532.jpg",
+                "num": 18532,
+                "scence_num": 205
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V014/L07_V014_keyframes/frame_18538.jpg",
+                "num": 18538,
+                "scence_num": 205
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V014/L07_V014_keyframes/frame_18550.jpg",
+                "num": 18550,
+                "scence_num": 205
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V014/L07_V014_keyframes/frame_18556.jpg",
+                "num": 18556,
+                "scence_num": 205
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V014/L07_V014_keyframes/frame_18557.jpg",
+                "num": 18557,
+                "scence_num": 206
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V014/L07_V014_keyframes/frame_18570.jpg",
+                "num": 18570,
+                "scence_num": 206
+            }
+        ],
+        "weights": 0.5043293833732605,
+        "start_time": 18454,
+        "end_time": 18611
+    },
+    {
+        "video_path": "L04_V017",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L04_Keyframes/L04_V017/L04_V017_keyframes/frame_4675.jpg",
+                "num": 4675,
+                "scence_num": 71
+            },
+            {
+                "frame": "./AIC_Keyframes/L04_Keyframes/L04_V017/L04_V017_keyframes/frame_4687.jpg",
+                "num": 4687,
+                "scence_num": 71
+            }
+        ],
+        "weights": 0.4985557198524475,
+        "start_time": 4642,
+        "end_time": 4687
+    },
+    {
+        "video_path": "L04_V018",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L04_Keyframes/L04_V018/L04_V018_keyframes/frame_7726.jpg",
+                "num": 7726,
+                "scence_num": 114
+            },
+            {
+                "frame": "./AIC_Keyframes/L04_Keyframes/L04_V018/L04_V018_keyframes/frame_7731.jpg",
+                "num": 7731,
+                "scence_num": 114
+            },
+            {
+                "frame": "./AIC_Keyframes/L04_Keyframes/L04_V018/L04_V018_keyframes/frame_7746.jpg",
+                "num": 7746,
+                "scence_num": 114
+            }
+        ],
+        "weights": 0.49822017550468445,
+        "start_time": 7726,
+        "end_time": 7746
+    },
+    {
+        "video_path": "L10_V008",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V008/L10_V008_keyframes/frame_16243.jpg",
+                "num": 16243,
+                "scence_num": 170
+            },
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V008/L10_V008_keyframes/frame_16259.jpg",
+                "num": 16259,
+                "scence_num": 170
+            },
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V008/L10_V008_keyframes/frame_16292.jpg",
+                "num": 16292,
+                "scence_num": 170
+            },
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V008/L10_V008_keyframes/frame_16309.jpg",
+                "num": 16309,
+                "scence_num": 170
+            }
+        ],
+        "weights": 0.49770572781562805,
+        "start_time": 16243,
+        "end_time": 16309
+    },
+    {
+        "video_path": "L06_V009",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L06_Keyframes/L06_V009/L06_V009_keyframes/frame_12282.jpg",
+                "num": 12282,
+                "scence_num": 155
+            },
+            {
+                "frame": "./AIC_Keyframes/L06_Keyframes/L06_V009/L06_V009_keyframes/frame_12299.jpg",
+                "num": 12299,
+                "scence_num": 155
+            }
+        ],
+        "weights": 0.49633321166038513,
+        "start_time": 12282,
+        "end_time": 12351
+    },
+    {
+        "video_path": "L09_V012",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V012/L09_V012_keyframes/frame_2170.jpg",
+                "num": 2170,
+                "scence_num": 25
+            }
+        ],
+        "weights": 0.49584904313087463,
+        "start_time": 2149,
+        "end_time": 2170
+    },
+    {
+        "video_path": "L01_V022",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L01_Keyframes/L01_V022/L01_V022_keyframes/frame_609.jpg",
+                "num": 609,
+                "scence_num": 9
+            },
+            {
+                "frame": "./AIC_Keyframes/L01_Keyframes/L01_V022/L01_V022_keyframes/frame_3963.jpg",
+                "num": 3963,
+                "scence_num": 43
+            },
+            {
+                "frame": "./AIC_Keyframes/L01_Keyframes/L01_V022/L01_V022_keyframes/frame_17284.jpg",
+                "num": 17284,
+                "scence_num": 175
+            },
+            {
+                "frame": "./AIC_Keyframes/L01_Keyframes/L01_V022/L01_V022_keyframes/frame_17782.jpg",
+                "num": 17782,
+                "scence_num": 183
+            },
+            {
+                "frame": "./AIC_Keyframes/L01_Keyframes/L01_V022/L01_V022_keyframes/frame_17810.jpg",
+                "num": 17810,
+                "scence_num": 183
+            },
+            {
+                "frame": "./AIC_Keyframes/L01_Keyframes/L01_V022/L01_V022_keyframes/frame_17825.jpg",
+                "num": 17825,
+                "scence_num": 183
+            },
+            {
+                "frame": "./AIC_Keyframes/L01_Keyframes/L01_V022/L01_V022_keyframes/frame_23353.jpg",
+                "num": 23353,
+                "scence_num": 265
+            }
+        ],
+        "weights": 0.4946731925010681,
+        "start_time": 591,
+        "end_time": 23404
+    },
+    {
+        "video_path": "L02_V010",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L02_Keyframes/L02_V010/L02_V010_keyframes/frame_5767.jpg",
+                "num": 5767,
+                "scence_num": 90
+            }
+        ],
+        "weights": 0.4920675456523895,
+        "start_time": 5767,
+        "end_time": 5802
+    },
+    {
+        "video_path": "L07_V012",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V012/L07_V012_keyframes/frame_5664.jpg",
+                "num": 5664,
+                "scence_num": 67
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V012/L07_V012_keyframes/frame_5681.jpg",
+                "num": 5681,
+                "scence_num": 67
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V012/L07_V012_keyframes/frame_5715.jpg",
+                "num": 5715,
+                "scence_num": 67
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V012/L07_V012_keyframes/frame_5733.jpg",
+                "num": 5733,
+                "scence_num": 67
+            }
+        ],
+        "weights": 0.4917963445186615,
+        "start_time": 5664,
+        "end_time": 5733
+    },
+    {
+        "video_path": "L06_V020",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L06_Keyframes/L06_V020/L06_V020_keyframes/frame_11322.jpg",
+                "num": 11322,
+                "scence_num": 153
+            },
+            {
+                "frame": "./AIC_Keyframes/L06_Keyframes/L06_V020/L06_V020_keyframes/frame_11357.jpg",
+                "num": 11357,
+                "scence_num": 153
+            }
+        ],
+        "weights": 0.49124112725257874,
+        "start_time": 11322,
+        "end_time": 11357
+    },
+    {
+        "video_path": "L09_V001",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V001/L09_V001_keyframes/frame_4206.jpg",
+                "num": 4206,
+                "scence_num": 70
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V001/L09_V001_keyframes/frame_4213.jpg",
+                "num": 4213,
+                "scence_num": 70
+            }
+        ],
+        "weights": 0.49028074741363525,
+        "start_time": 4206,
+        "end_time": 4235
+    },
+    {
+        "video_path": "L05_V029",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L05_Keyframes/L05_V029/L05_V029_keyframes/frame_19539.jpg",
+                "num": 19539,
+                "scence_num": 221
+            }
+        ],
+        "weights": 0.49010133743286133,
+        "start_time": 19479,
+        "end_time": 19559
+    },
+    {
+        "video_path": "L10_V005",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V005/L10_V005_keyframes/frame_647.jpg",
+                "num": 647,
+                "scence_num": 12
+            }
+        ],
+        "weights": 0.48956623673439026,
+        "start_time": 626,
+        "end_time": 647
+    },
+    {
+        "video_path": "L12_V011",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L12_Keyframes/L12_V011/L12_V011_keyframes/frame_16761.jpg",
+                "num": 16761,
+                "scence_num": 206
+            },
+            {
+                "frame": "./AIC_Keyframes/L12_Keyframes/L12_V011/L12_V011_keyframes/frame_16779.jpg",
+                "num": 16779,
+                "scence_num": 206
+            },
+            {
+                "frame": "./AIC_Keyframes/L12_Keyframes/L12_V011/L12_V011_keyframes/frame_16833.jpg",
+                "num": 16833,
+                "scence_num": 206
+            }
+        ],
+        "weights": 0.48928144574165344,
+        "start_time": 16761,
+        "end_time": 16833
+    },
+    {
+        "video_path": "L11_V022",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L11_Keyframes/L11_V022/L11_V022_keyframes/frame_21744.jpg",
+                "num": 21744,
+                "scence_num": 249
+            },
+            {
+                "frame": "./AIC_Keyframes/L11_Keyframes/L11_V022/L11_V022_keyframes/frame_21780.jpg",
+                "num": 21780,
+                "scence_num": 249
+            }
+        ],
+        "weights": 0.489052951335907,
+        "start_time": 21744,
+        "end_time": 21792
+    },
+    {
+        "video_path": "L09_V002",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V002/L09_V002_keyframes/frame_22931.jpg",
+                "num": 22931,
+                "scence_num": 260
+            },
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V002/L09_V002_keyframes/frame_22944.jpg",
+                "num": 22944,
+                "scence_num": 260
+            }
+        ],
+        "weights": 0.48895397782325745,
+        "start_time": 22931,
+        "end_time": 22983
+    },
+    {
+        "video_path": "L01_V025",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L01_Keyframes/L01_V025/L01_V025_keyframes/frame_5752.jpg",
+                "num": 5752,
+                "scence_num": 76
+            },
+            {
+                "frame": "./AIC_Keyframes/L01_Keyframes/L01_V025/L01_V025_keyframes/frame_5765.jpg",
+                "num": 5765,
+                "scence_num": 76
+            }
+        ],
+        "weights": 0.48800766468048096,
+        "start_time": 5716,
+        "end_time": 5765
+    },
+    {
+        "video_path": "L01_V001",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L01_Keyframes/L01_V001/L01_V001_keyframes/frame_13487.jpg",
+                "num": 13487,
+                "scence_num": 133
+            }
+        ],
+        "weights": 0.48785075545310974,
+        "start_time": 13487,
+        "end_time": 13557
+    },
+    {
+        "video_path": "L09_V029",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V029/L09_V029_keyframes/frame_6672.jpg",
+                "num": 6672,
+                "scence_num": 74
+            }
+        ],
+        "weights": 0.48693546652793884,
+        "start_time": 6672,
+        "end_time": 7211
+    },
+    {
+        "video_path": "L05_V009",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L05_Keyframes/L05_V009/L05_V009_keyframes/frame_15105.jpg",
+                "num": 15105,
+                "scence_num": 165
+            }
+        ],
+        "weights": 0.4863148629665375,
+        "start_time": 15082,
+        "end_time": 15105
+    },
+    {
+        "video_path": "L05_V017",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L05_Keyframes/L05_V017/L05_V017_keyframes/frame_19981.jpg",
+                "num": 19981,
+                "scence_num": 196
+            }
+        ],
+        "weights": 0.4856208562850952,
+        "start_time": 19981,
+        "end_time": 20067
+    },
+    {
+        "video_path": "L09_V025",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V025/L09_V025_keyframes/frame_19644.jpg",
+                "num": 19644,
+                "scence_num": 227
+            }
+        ],
+        "weights": 0.4848954379558563,
+        "start_time": 19573,
+        "end_time": 19644
+    },
+    {
+        "video_path": "L12_V009",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L12_Keyframes/L12_V009/L12_V009_keyframes/frame_14132.jpg",
+                "num": 14132,
+                "scence_num": 156
+            },
+            {
+                "frame": "./AIC_Keyframes/L12_Keyframes/L12_V009/L12_V009_keyframes/frame_14143.jpg",
+                "num": 14143,
+                "scence_num": 156
+            },
+            {
+                "frame": "./AIC_Keyframes/L12_Keyframes/L12_V009/L12_V009_keyframes/frame_14165.jpg",
+                "num": 14165,
+                "scence_num": 156
+            },
+            {
+                "frame": "./AIC_Keyframes/L12_Keyframes/L12_V009/L12_V009_keyframes/frame_14177.jpg",
+                "num": 14177,
+                "scence_num": 156
+            },
+            {
+                "frame": "./AIC_Keyframes/L12_Keyframes/L12_V009/L12_V009_keyframes/frame_14197.jpg",
+                "num": 14197,
+                "scence_num": 157
+            },
+            {
+                "frame": "./AIC_Keyframes/L12_Keyframes/L12_V009/L12_V009_keyframes/frame_14235.jpg",
+                "num": 14235,
+                "scence_num": 157
+            }
+        ],
+        "weights": 0.2130451500415802,
+        "start_time": 14132,
+        "end_time": 14255
+    },
+    {
+        "video_path": "L10_V007",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V007/L10_V007_keyframes/frame_16732.jpg",
+                "num": 16732,
+                "scence_num": 182
+            },
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V007/L10_V007_keyframes/frame_16733.jpg",
+                "num": 16733,
+                "scence_num": 183
+            }
+        ],
+        "weights": 0.2097339779138565,
+        "start_time": 16451,
+        "end_time": 16868
+    },
+    {
+        "video_path": "L03_V001",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L03_Keyframes/L03_V001/L03_V001_keyframes/frame_25395.jpg",
+                "num": 25395,
+                "scence_num": 237
+            },
+            {
+                "frame": "./AIC_Keyframes/L03_Keyframes/L03_V001/L03_V001_keyframes/frame_25429.jpg",
+                "num": 25429,
+                "scence_num": 237
+            },
+            {
+                "frame": "./AIC_Keyframes/L03_Keyframes/L03_V001/L03_V001_keyframes/frame_25599.jpg",
+                "num": 25599,
+                "scence_num": 238
+            }
+        ],
+        "weights": 0.2069607824087143,
+        "start_time": 25395,
+        "end_time": 25621
+    },
+    {
+        "video_path": "L10_V019",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L10_Keyframes/L10_V019/L10_V019_keyframes/frame_15991.jpg",
+                "num": 15991,
+                "scence_num": 216
+            }
+        ],
+        "weights": 0.2061467170715332,
+        "start_time": 15973,
+        "end_time": 16046
+    },
+    {
+        "video_path": "L03_V009",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L03_Keyframes/L03_V009/L03_V009_keyframes/frame_21297.jpg",
+                "num": 21297,
+                "scence_num": 218
+            }
+        ],
+        "weights": 0.20521971583366394,
+        "start_time": 21297,
+        "end_time": 21382
+    },
+    {
+        "video_path": "L11_V006",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L11_Keyframes/L11_V006/L11_V006_keyframes/frame_6032.jpg",
+                "num": 6032,
+                "scence_num": 78
+            },
+            {
+                "frame": "./AIC_Keyframes/L11_Keyframes/L11_V006/L11_V006_keyframes/frame_6050.jpg",
+                "num": 6050,
+                "scence_num": 78
+            },
+            {
+                "frame": "./AIC_Keyframes/L11_Keyframes/L11_V006/L11_V006_keyframes/frame_6086.jpg",
+                "num": 6086,
+                "scence_num": 78
+            },
+            {
+                "frame": "./AIC_Keyframes/L11_Keyframes/L11_V006/L11_V006_keyframes/frame_6105.jpg",
+                "num": 6105,
+                "scence_num": 78
+            },
+            {
+                "frame": "./AIC_Keyframes/L11_Keyframes/L11_V006/L11_V006_keyframes/frame_24529.jpg",
+                "num": 24529,
+                "scence_num": 236
+            },
+            {
+                "frame": "./AIC_Keyframes/L11_Keyframes/L11_V006/L11_V006_keyframes/frame_24542.jpg",
+                "num": 24542,
+                "scence_num": 236
+            },
+            {
+                "frame": "./AIC_Keyframes/L11_Keyframes/L11_V006/L11_V006_keyframes/frame_24570.jpg",
+                "num": 24570,
+                "scence_num": 236
+            },
+            {
+                "frame": "./AIC_Keyframes/L11_Keyframes/L11_V006/L11_V006_keyframes/frame_24584.jpg",
+                "num": 24584,
+                "scence_num": 236
+            }
+        ],
+        "weights": 0.20485010743141174,
+        "start_time": 6032,
+        "end_time": 24584
+    },
+    {
+        "video_path": "L07_V019",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V019/L07_V019_keyframes/frame_24377.jpg",
+                "num": 24377,
+                "scence_num": 218
+            }
+        ],
+        "weights": 0.20470644533634186,
+        "start_time": 24377,
+        "end_time": 24495
+    },
+    {
+        "video_path": "L11_V029",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L11_Keyframes/L11_V029/L11_V029_keyframes/frame_4363.jpg",
+                "num": 4363,
+                "scence_num": 70
+            },
+            {
+                "frame": "./AIC_Keyframes/L11_Keyframes/L11_V029/L11_V029_keyframes/frame_4385.jpg",
+                "num": 4385,
+                "scence_num": 70
+            }
+        ],
+        "weights": 0.20438335835933685,
+        "start_time": 4363,
+        "end_time": 4385
+    },
+    {
+        "video_path": "L01_V018",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L01_Keyframes/L01_V018/L01_V018_keyframes/frame_22655.jpg",
+                "num": 22655,
+                "scence_num": 283
+            },
+            {
+                "frame": "./AIC_Keyframes/L01_Keyframes/L01_V018/L01_V018_keyframes/frame_22656.jpg",
+                "num": 22656,
+                "scence_num": 284
+            }
+        ],
+        "weights": 0.20429930090904236,
+        "start_time": 22324,
+        "end_time": 22793
+    },
+    {
+        "video_path": "L03_V013",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L03_Keyframes/L03_V013/L03_V013_keyframes/frame_13561.jpg",
+                "num": 13561,
+                "scence_num": 164
+            }
+        ],
+        "weights": 0.20406177639961243,
+        "start_time": 13477,
+        "end_time": 13816
+    },
+    {
+        "video_path": "L04_V002",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L04_Keyframes/L04_V002/L04_V002_keyframes/frame_11855.jpg",
+                "num": 11855,
+                "scence_num": 165
+            },
+            {
+                "frame": "./AIC_Keyframes/L04_Keyframes/L04_V002/L04_V002_keyframes/frame_19420.jpg",
+                "num": 19420,
+                "scence_num": 246
+            },
+            {
+                "frame": "./AIC_Keyframes/L04_Keyframes/L04_V002/L04_V002_keyframes/frame_19890.jpg",
+                "num": 19890,
+                "scence_num": 252
+            }
+        ],
+        "weights": 0.2037375271320343,
+        "start_time": 11820,
+        "end_time": 19970
+    },
+    {
+        "video_path": "L01_V016",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L01_Keyframes/L01_V016/L01_V016_keyframes/frame_19762.jpg",
+                "num": 19762,
+                "scence_num": 180
+            }
+        ],
+        "weights": 0.20368491113185883,
+        "start_time": 19747,
+        "end_time": 19808
+    },
+    {
+        "video_path": "L07_V021",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V021/L07_V021_keyframes/frame_4918.jpg",
+                "num": 4918,
+                "scence_num": 67
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V021/L07_V021_keyframes/frame_4924.jpg",
+                "num": 4924,
+                "scence_num": 67
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V021/L07_V021_keyframes/frame_4937.jpg",
+                "num": 4937,
+                "scence_num": 67
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V021/L07_V021_keyframes/frame_4944.jpg",
+                "num": 4944,
+                "scence_num": 67
+            }
+        ],
+        "weights": 0.2035878598690033,
+        "start_time": 4918,
+        "end_time": 4944
+    },
+    {
+        "video_path": "L05_V021",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L05_Keyframes/L05_V021/L05_V021_keyframes/frame_20323.jpg",
+                "num": 20323,
+                "scence_num": 238
+            }
+        ],
+        "weights": 0.20308621227741241,
+        "start_time": 19908,
+        "end_time": 20323
+    },
+    {
+        "video_path": "L08_V011",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L08_Keyframes/L08_V011/L08_V011_keyframes/frame_8269.jpg",
+                "num": 8269,
+                "scence_num": 116
+            }
+        ],
+        "weights": 0.20183004438877106,
+        "start_time": 8025,
+        "end_time": 8269
+    },
+    {
+        "video_path": "L07_V004",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V004/L07_V004_keyframes/frame_5015.jpg",
+                "num": 5015,
+                "scence_num": 61
+            },
+            {
+                "frame": "./AIC_Keyframes/L07_Keyframes/L07_V004/L07_V004_keyframes/frame_5082.jpg",
+                "num": 5082,
+                "scence_num": 61
+            }
+        ],
+        "weights": 0.20178672671318054,
+        "start_time": 5015,
+        "end_time": 5082
+    },
+    {
+        "video_path": "L06_V025",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L06_Keyframes/L06_V025/L06_V025_keyframes/frame_9816.jpg",
+                "num": 9816,
+                "scence_num": 124
+            },
+            {
+                "frame": "./AIC_Keyframes/L06_Keyframes/L06_V025/L06_V025_keyframes/frame_9827.jpg",
+                "num": 9827,
+                "scence_num": 124
+            }
+        ],
+        "weights": 0.20143507421016693,
+        "start_time": 9813,
+        "end_time": 9827
+    },
+    {
+        "video_path": "L01_V027",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L01_Keyframes/L01_V027/L01_V027_keyframes/frame_22119.jpg",
+                "num": 22119,
+                "scence_num": 243
+            }
+        ],
+        "weights": 0.20133349299430847,
+        "start_time": 22119,
+        "end_time": 22168
+    },
+    {
+        "video_path": "L02_V011",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L02_Keyframes/L02_V011/L02_V011_keyframes/frame_10895.jpg",
+                "num": 10895,
+                "scence_num": 142
+            }
+        ],
+        "weights": 0.20131495594978333,
+        "start_time": 10861,
+        "end_time": 10895
+    },
+    {
+        "video_path": "L11_V014",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L11_Keyframes/L11_V014/L11_V014_keyframes/frame_17395.jpg",
+                "num": 17395,
+                "scence_num": 185
+            },
+            {
+                "frame": "./AIC_Keyframes/L11_Keyframes/L11_V014/L11_V014_keyframes/frame_17406.jpg",
+                "num": 17406,
+                "scence_num": 185
+            },
+            {
+                "frame": "./AIC_Keyframes/L11_Keyframes/L11_V014/L11_V014_keyframes/frame_23127.jpg",
+                "num": 23127,
+                "scence_num": 247
+            },
+            {
+                "frame": "./AIC_Keyframes/L11_Keyframes/L11_V014/L11_V014_keyframes/frame_23190.jpg",
+                "num": 23190,
+                "scence_num": 247
+            }
+        ],
+        "weights": 0.20127743482589722,
+        "start_time": 17395,
+        "end_time": 23212
+    },
+    {
+        "video_path": "L09_V005",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V005/L09_V005_keyframes/frame_22810.jpg",
+                "num": 22810,
+                "scence_num": 231
+            }
+        ],
+        "weights": 0.2011355459690094,
+        "start_time": 22810,
+        "end_time": 22980
+    },
+    {
+        "video_path": "L03_V007",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L03_Keyframes/L03_V007/L03_V007_keyframes/frame_4399.jpg",
+                "num": 4399,
+                "scence_num": 61
+            }
+        ],
+        "weights": 0.20103487372398376,
+        "start_time": 4392,
+        "end_time": 4421
+    },
+    {
+        "video_path": "L02_V025",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L02_Keyframes/L02_V025/L02_V025_keyframes/frame_16716.jpg",
+                "num": 16716,
+                "scence_num": 206
+            }
+        ],
+        "weights": 0.2009027898311615,
+        "start_time": 16683,
+        "end_time": 16728
+    },
+    {
+        "video_path": "L03_V008",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L03_Keyframes/L03_V008/L03_V008_keyframes/frame_4468.jpg",
+                "num": 4468,
+                "scence_num": 63
+            }
+        ],
+        "weights": 0.2008495330810547,
+        "start_time": 4461,
+        "end_time": 4490
+    },
+    {
+        "video_path": "L03_V006",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L03_Keyframes/L03_V006/L03_V006_keyframes/frame_21355.jpg",
+                "num": 21355,
+                "scence_num": 234
+            }
+        ],
+        "weights": 0.2007243037223816,
+        "start_time": 21355,
+        "end_time": 21663
+    },
+    {
+        "video_path": "L04_V006",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L04_Keyframes/L04_V006/L04_V006_keyframes/frame_19485.jpg",
+                "num": 19485,
+                "scence_num": 207
+            }
+        ],
+        "weights": 0.20068106055259705,
+        "start_time": 19485,
+        "end_time": 19558
+    },
+    {
+        "video_path": "L03_V020",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L03_Keyframes/L03_V020/L03_V020_keyframes/frame_8789.jpg",
+                "num": 8789,
+                "scence_num": 120
+            }
+        ],
+        "weights": 0.20048940181732178,
+        "start_time": 8789,
+        "end_time": 8859
+    },
+    {
+        "video_path": "L12_V017",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L12_Keyframes/L12_V017/L12_V017_keyframes/frame_15789.jpg",
+                "num": 15789,
+                "scence_num": 203
+            }
+        ],
+        "weights": 0.2004096508026123,
+        "start_time": 15789,
+        "end_time": 15879
+    },
+    {
+        "video_path": "L09_V027",
+        "frame": [
+            {
+                "frame": "./AIC_Keyframes/L09_Keyframes/L09_V027/L09_V027_keyframes/frame_1282.jpg",
+                "num": 1282,
+                "scence_num": 15
+            }
+        ],
+        "weights": 0.200389564037323,
+        "start_time": 935,
+        "end_time": 1282
+    }
+]
